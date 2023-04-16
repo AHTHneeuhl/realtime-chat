@@ -4,3 +4,5 @@ export { default as SignOutButton } from "./SignOutButton";
 export { default as SidebarChatList } from "./SidebarChatList";
 export { default as FriendRequestSidebarOptions } from "./FriendRequestSidebarOptions";
 export { default as FriendRequests } from "./FriendRequests";
+export { default as ChatInput } from "./ChatInput";
+export { default as Messages } from "./Messages";
